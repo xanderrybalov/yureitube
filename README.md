@@ -34,7 +34,7 @@ Unlike traditional YouTube downloaders that **block the main thread** during dow
 ## 📦 **Installation**
 Clone the repository and install dependencies:  
 ```sh
-git clone https://github.com/yureitube.git
+git clone https://github.com/xanderrybalov/yureitube.git
 cd yureitube
 npm install
 ```
